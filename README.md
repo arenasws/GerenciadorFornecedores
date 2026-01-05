@@ -31,12 +31,13 @@ Caso queira rodar o script original:
     Clone o repositório:
     Bash
 
-git clone https://github.com/seu-usuario/gerenciador-fornecedores.git
+git clone https://github.com/arenasws/GerenciadorFornecedores.git
 
 Instale as dependências:
+requirements.txt
 Bash
 
-pip install pandas openpyxl pillow
+pip install -r requeriments.txt
 
 Execute:
 Bash
